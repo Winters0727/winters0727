@@ -1,5 +1,6 @@
-### 👋
-![](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winters0727&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=winters0727&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winters0727&theme=tokyonight)
 <!--
 **Winters0727/winters0727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

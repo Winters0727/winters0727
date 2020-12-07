@@ -1,6 +1,14 @@
+### 모두가 사용하는 서비스를 개발하고 싶은 개발자입니다.
+### Engineer who wants to create service for everyone.
+
+### 사용언어 및 프레임워크
+- 한글(Korean), 영어(English)
+- Python(Django), Javascript(Node.js, Vue.js)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=winters0727&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winters0727&theme=tokyonight)
+
 <!--
 **Winters0727/winters0727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

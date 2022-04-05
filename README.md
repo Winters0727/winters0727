@@ -3,7 +3,7 @@
 
 ### 사용언어 및 프레임워크
 - 한글(Korean), 영어(English)
-- Python(Django), Javascript(Node.js, Vue.js)
+- Python(Django), Javascript(Node.js, React.js, Vue.js)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=winters0727&show_icons=true&theme=tokyonight)
 
